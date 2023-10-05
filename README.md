@@ -49,18 +49,12 @@ The project is organized according to the principles of Clean Architecture, sepa
 
 ## Technologies Used
 
-- **[NodeJS](https://nodejs.org)**
-- **[Fastify](https://github.com/fastify/fastify)**
-- **[Fastify/JWT](https://github.com/fastify/fastify-jwt)**
-- **[Fastify/cookie](https://github.com/fastify/fastify-cookie)**
-- **[Prisma](https://www.prisma.io/)**
-- **[Bcryptjs](https://github.com/dcodeIO/bcrypt.js)**
-- **[Supertest](https://github.com/visionmedia/supertest)**
-- **[Tsup](https://github.com/effector/tsup)**
+
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Node.js](https://nodejs.org)**
 - **[Vitest](https://github.com/vitejs/vite)**
 - **[Dayjs](https://github.com/iamkun/dayjs)**
-- **[Zod](https://github.com/vriad/zod)**
-- **[PostgreSQL](https://www.postgresql.org/)**
+- **[Faker.js](https://github.com/marak/Faker.js/)**
 
 ## 👨‍💼 Author
 
