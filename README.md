@@ -12,15 +12,18 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Tests](#tests)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Author](#-author)
 
 ## Overview
 
 This project embraces the principles of Clean Architecture, focusing on entities and use cases. It is designed with modularity and maintainability in mind, making it easy to extend and adapt to changing requirements.
+
+## Tests
+
+This project includes a comprehensive suite of unit tests to ensure the correctness and reliability of the codebase. Tests are located in the `test` directory.
 
 ## Project Structure
 
@@ -39,11 +42,6 @@ The project is organized according to the principles of Clean Architecture, sepa
 - **Enterprise**: Contains business-specific logic.
   - **Entities**: Define entities specific to the business domain.
   - **Value Objects**: Define value objects used in the business logic.
-
-
-## Tests
-
-This project includes a comprehensive suite of unit tests to ensure the correctness and reliability of the codebase. Tests are located in the `test` directory.
 
 ## Technologies Used
 
@@ -74,7 +72,6 @@ This project includes a comprehensive suite of unit tests to ensure the correctn
     </td>
   </tr>
 </table>
-
 
 
 
