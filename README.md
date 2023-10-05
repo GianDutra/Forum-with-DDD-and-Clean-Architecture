@@ -52,9 +52,9 @@ The project is organized according to the principles of Clean Architecture, sepa
 
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Node.js](https://nodejs.org)**
-- **[Vitest](https://github.com/vitejs/vite)**
-- **[Dayjs](https://github.com/iamkun/dayjs)**
-- **[Faker.js](https://github.com/marak/Faker.js/)**
+- **[Vitest](https://vitest.dev/)**
+- **[Day.js](https://day.js.org/)**
+- **[Faker.js](https://fakerjs.dev/)**
 
 ## 👨‍💼 Author
 
