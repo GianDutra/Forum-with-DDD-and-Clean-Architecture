@@ -20,7 +20,10 @@
 
 ## Overview
 
-This project embraces the principles of Clean Architecture, focusing on entities and use cases. It is designed with modularity and maintainability in mind, making it easy to extend and adapt to changing requirements.
+This project embraces the principles of Clean Architecture, **focusing on entities and use cases**. It is designed with modularity and maintainability in mind, making it easy to extend and adapt to changing requirements.
+
+Please note that the second part of this project, which includes controllers, database interactions, etc., is being developed in a separate repository using Nest.js. You can find it [**here**](https://github.com/GianDutra/Forum-with-Nest-and-Clean-Architect).
+
 
 ## Tests
 
