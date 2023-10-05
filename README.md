@@ -1,4 +1,4 @@
-# Clean Architecture Project
+# Forum (DDD and Clean Architecture)
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Forum-with-DDD-and-Clean-Architecture?color=%2304D361">
