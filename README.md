@@ -45,14 +45,36 @@ The project is organized according to the principles of Clean Architecture, sepa
 
 This project includes a comprehensive suite of unit tests to ensure the correctness and reliability of the codebase. Tests are located in the `test` directory.
 
-## Getting Started
+## Technologies Used
 
-<!-- Provide instructions for setting up the project locally, including any dependencies, database setup, etc. -->
+- **[NodeJS](https://nodejs.org)**
+- **[Fastify](https://github.com/fastify/fastify)**
+- **[Fastify/JWT](https://github.com/fastify/fastify-jwt)**
+- **[Fastify/cookie](https://github.com/fastify/fastify-cookie)**
+- **[Prisma](https://www.prisma.io/)**
+- **[Bcryptjs](https://github.com/dcodeIO/bcrypt.js)**
+- **[Supertest](https://github.com/visionmedia/supertest)**
+- **[Tsup](https://github.com/effector/tsup)**
+- **[Vitest](https://github.com/vitejs/vite)**
+- **[Dayjs](https://github.com/iamkun/dayjs)**
+- **[Zod](https://github.com/vriad/zod)**
+- **[PostgreSQL](https://www.postgresql.org/)**
 
-## Contributing
+## 👨‍💼 Author
 
-<!-- Provide guidelines for contributing to the project, including coding standards, issue reporting, and pull request process. -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/GianDutra.png" width="100px;" alt="Foto do Gian no GitHub"/><br>
+        <sub>
+          <b>Gian Dutra</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## License
 
-[MIT License](LICENSE)
+
+
